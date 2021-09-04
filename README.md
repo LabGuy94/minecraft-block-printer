@@ -6,9 +6,13 @@
 
 ## Usage
 
-```sh
+```
 Set the imgpath to the path of the image
 ```
+
+## Images
+![obama](https://cdn.discordapp.com/attachments/865897316043718676/883796856277192754/unknown4.png)
+![my pfp](https://cdn.discordapp.com/attachments/865897316043718676/883797017732730960/unknown5.png)
 ## Author
 
 👤 **LabGuy94**
